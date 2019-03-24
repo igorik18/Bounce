@@ -1,0 +1,12 @@
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+B                                BB                                                       BBBB     B
+B                                BB                                                       BBBB     B
+B                                BB                                                       BBBBBB   B
+B                                BB                                                       BBBB     B
+B      00000000                  BB                                                       BBBB   BBB
+B                                BB                                                       BBBB     B
+B                                                                                         BBBBBB   B
+B               BB             B                                                          BBBB     B
+B    B         BBBB           BB                                                                 BBB
+B   BBB       BBBBBB         BBB                                                                   B
+BBBBBBBBBBBBBBBBBBBBBBBBB   BBBB   BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
